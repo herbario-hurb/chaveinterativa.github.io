@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Apalanthe (HYDR)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Hydrocharitaceae Apalanthe granatensis 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Hydrocharitaceae Apalanthe granatensis 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Hydrocharitaceae Apalanthe granatensis 3.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Hydrocharitaceae Apalanthe granatensis 3_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Hydrocharitaceae Apalanthe granatensis det flor.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Hydrocharitaceae Apalanthe granatensis det flor_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

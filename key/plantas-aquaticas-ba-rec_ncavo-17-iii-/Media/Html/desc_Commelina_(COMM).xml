@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Commelina (COMM)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina Diffusa Nazaré.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina Diffusa Nazaré_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina benghalensis.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina benghalensis_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina diffusa - det bainha.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina diffusa - det bainha_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina diffusa hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina diffusa hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina diffusa.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina diffusa_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina erecta Milagres.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina erecta Milagres_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina erecta Milagres2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina erecta Milagres2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina erecta Sapeacu.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina erecta Sapeacu_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina erecta det auricula.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina erecta det auricula_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Commelinaceae Commelina erecta.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Commelinaceae Commelina erecta_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Lemna (ARAC)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/LEMN_Lemna_-minuta_hab.jpg" type="image/jpeg"/>
+<icon path="../Thumbs/LEMN_Lemna_-minuta_hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

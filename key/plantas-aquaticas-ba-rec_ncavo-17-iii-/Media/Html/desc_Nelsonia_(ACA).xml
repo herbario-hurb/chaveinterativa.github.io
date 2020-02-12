@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Nelsonia (ACA)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Acanthaceae Nelsonia canascens 1810.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Acanthaceae Nelsonia canascens 1810_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Acanthaceae Nelsonia canescens det flor.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Acanthaceae Nelsonia canescens det flor_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Heteranthera (PONT)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiacdeae Heteranthera rotundifolia Sape.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiacdeae Heteranthera rotundifolia Sape_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Heteranthera peduncularis 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Heteranthera peduncularis 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Heteranthera peduncularis.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Heteranthera peduncularis_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Heteranthera rotundifolia hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Heteranthera rotundifolia hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Heteranthera rotundifolia.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Heteranthera rotundifolia_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae Heteranthera multiflora det flor sape.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae Heteranthera multiflora det flor sape_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae Heteranthera multiflora sape2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae Heteranthera multiflora sape2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae Heteranthera peduncularis Sape.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae Heteranthera peduncularis Sape_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

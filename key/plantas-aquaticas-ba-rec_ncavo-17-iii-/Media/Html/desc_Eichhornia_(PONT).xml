@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Eichhornia (PONT)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Eichhornia crassipes fl.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Eichhornia crassipes fl_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Eichhornia crassipes.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Eichhornia crassipes_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Eichhornia heterosperma2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Eichhornia heterosperma2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Eichhornia paniculata 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Eichhornia paniculata 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Eichhornia paniculata 3.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Eichhornia paniculata 3_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Eichhornia paniculata 4.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Eichhornia paniculata 4_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae  Eichhornia paniculata.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae  Eichhornia paniculata_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae Eichhornia carassipes fl.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae Eichhornia carassipes fl_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae Eichhornia crassipes Dom Macedo.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae Eichhornia crassipes Dom Macedo_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Pontederiaceae Eichhornia heterosperma.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Pontederiaceae Eichhornia heterosperma_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Enraizada de folhas flutuantes, Flutuante or Submersa"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Fruto completo (somente) ou fragmentado, Sementes em grupos ou solitárias or Fragmentos da planta-mãe (reprodução vegetativa)"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="Monocotiledônea"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Erva"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Forma em corte transversal">
+<score text="Cilíndrico"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presente"/>
+</feature>
+<feature name="Presença de espinhos">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Forma">
+<score text="individuo com todas as folhas iguais or indivíduo com folhas com mais de uma forma"/>
+</feature>
+<feature name="Tipo">
+<score text="Simples"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Alterna"/>
+</feature>
+<feature name="Venação foliar">
+<score text="Uninérvea ou sem nervura aparente or Paralela, actinodroma ou acródroma"/>
+</feature>
+<feature name="Estípula">
+<score text="Ausente"/>
+</feature>
+<feature name="Nectários extraflorais ou glândulas conspícuas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Ausente or Aberta"/>
+</feature>
+<feature name="Lígula e contra-lígula">
+<score text="Lígula e contra-lígula ausentes"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presentes or Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Reduzido à bainha">
+<score text="Presente"/>
+</feature>
+<feature name="Forma">
+<score text="Filiforme, linear, Cordada ou sagitiforme, Elíptica or Lanceolada ou oval"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa"/>
+</feature>
+<feature name="Superfície">
+<score text="Glabra"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Ramificada aberta (cimosa ou racemosa) or Espiga (incl. espádice) ou espiciforme"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Diclamidea (cálice e corola ou dois ciclos de tépalas)"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Zigomórfica"/>
+</feature>
+</feature_group>
+<feature_group name="Cálice ou externo ou único ciclo de tépalas">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Branca, Branco-azulada, azul, Lilás or Roxa"/>
+</feature>
+</feature_group>
+<feature_group name="Corola ou interno ciclo de tépalas (em caso de dois cíclos)">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Número de pétalas">
+<score text="1"/>
+</feature>
+<feature name="Prefloração">
+<score text="Valvar ou aberta (?), Imbricada (?) or Convoluta (?)"/>
+</feature>
+<feature name="Fusão das pétalas">
+<score text="Livres (ou aparentemente livres) or Fundidas até a metade"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Hialina, Branca, Branco-azulada, azul, Lilás or Roxa"/>
+</feature>
+<feature name="Apêndices">
+<score text="Glândulas diversas"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Normal - filete + antera"/>
+</feature>
+<feature name="Número de estames férteis">
+<score text="4"/>
+</feature>
+</feature_group>
+<feature_group name="Anteras">
+<feature name="Deiscência">
+<score text="Rimosa (longitudinal)"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Súpero"/>
+</feature>
+<feature name="Placentação">
+<score text="Parietal or Basal"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Linear"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Consistência do fruto na maturidade">
+<score text="Seco"/>
+</feature>
+<feature name="Deiscência">
+<score text="Deiscente"/>
+</feature>
+<feature name="Tipo">
+<score text="Cápsula"/>
+</feature>
+</feature_group>
+<feature_group name="Semente (de frutos deiscentes)">
+<feature name="Apêndices">
+<score text="Alas or Ausentes"/>
+</feature>
+</feature_group>
+</entity>
+</description>

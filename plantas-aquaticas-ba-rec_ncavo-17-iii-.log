@@ -1,0 +1,13 @@
+2020-02-12 09:46:07,874 WARN  [PlayerExport] skipping feature marked as needs revision: CoreItemTreeNode[coreItem=CoreItem[itemId=194,itemName=Tipo,itemType=1]]
+2020-02-12 09:46:17,825 ERROR [PlayerExport] unable to locate src file, mediaPath: Images/1-estame-monotec.jpg
+2020-02-12 09:46:17,997 ERROR [PlayerExport] unable to locate src file, mediaPath: Thumbs/5-estames_TN.jpg
+2020-02-12 09:48:35,478 ERROR [PlayerExport] unable to locate src file, mediaPath: Images/Asteraceae Mikania micrantha 2.JPG
+2020-02-12 09:48:35,478 ERROR [PlayerExport] unable to locate src file, mediaPath: Images/Asteraceae Mikania micrantha flor 2.JPG
+2020-02-12 09:48:35,478 ERROR [PlayerExport] unable to locate src file, mediaPath: Images/Asteraceae Mikania micrantha flor.JPG
+2020-02-12 09:48:35,478 ERROR [PlayerExport] unable to locate src file, mediaPath: Images/Asteraceae Mikania micrantha.JPG
+2020-02-12 09:50:08,086 WARN  [PlayerExport] writeDependencies, featureId not in output? 403
+2020-02-12 09:50:08,102 WARN  [PlayerExport] writeDependencies, featureId not in output? 617
+2020-02-12 09:50:08,102 WARN  [PlayerExport] writeDependencies, featureId not in output? 454
+2020-02-12 09:50:08,102 WARN  [PlayerExport] writeDependencies, featureId not in output? 519
+2020-02-12 09:50:08,102 WARN  [PlayerExport] writeDependencies, featureId not in output? 519
+2020-02-12 09:50:08,102 WARN  [PlayerExport] writeDependencies, featureId not in output? 139

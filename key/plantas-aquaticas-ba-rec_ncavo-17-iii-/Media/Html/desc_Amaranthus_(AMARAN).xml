@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Amaranthus (AMARAN)">
+<feature_group name="Folha">
+<feature name="Tipo">
+<score text="Folhas todas modificadas (utrículos, gavinhas ou outros tipos)"/>
+</feature>
+</feature_group>
+</entity>
+</description>

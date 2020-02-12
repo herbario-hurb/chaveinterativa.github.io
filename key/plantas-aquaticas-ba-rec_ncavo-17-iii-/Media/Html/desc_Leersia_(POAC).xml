@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Leersia (POAC)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae  Leersia hexandra 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae  Leersia hexandra 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae  Leersia hexandra.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae  Leersia hexandra_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

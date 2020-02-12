@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Ageratum (ASTE)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Ageratum conyzoides 1589.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Ageratum conyzoides 1589_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Ageratum conyzoides sape.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Ageratum conyzoides sape_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="&quot;Dicotiledônea&quot;"/>
+</feature>
+</feature_group>
+</entity>
+</description>

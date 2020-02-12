@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Habenaria (ORCH)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Orchidaceae Habenaria det flor.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Orchidaceae Habenaria det flor_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre or Emergente"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Sementes em grupos ou solitárias"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="Monocotiledônea"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Erva"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Forma em corte transversal">
+<score text="Cilíndrico"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Ausente"/>
+</feature>
+<feature name="Presença de espinhos">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Forma">
+<score text="individuo com todas as folhas iguais"/>
+</feature>
+<feature name="Tipo">
+<score text="Ausente ou reduzida à bainha or Simples"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Alterna or Basal ou em roseta"/>
+</feature>
+<feature name="Venação foliar">
+<score text="Paralela, actinodroma ou acródroma"/>
+</feature>
+<feature name="Estípula">
+<score text="Ausente"/>
+</feature>
+<feature name="Nectários extraflorais ou glândulas conspícuas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Aberta"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Reduzido à bainha">
+<score text="Presente"/>
+</feature>
+<feature name="Forma">
+<score text="Elíptica or Lanceolada ou oval"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa"/>
+</feature>
+<feature name="Superfície">
+<score text="Glabra"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Ramificada aberta (cimosa ou racemosa)"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Diclamidea (cálice e corola ou dois ciclos de tépalas)"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Assimétrica"/>
+</feature>
+</feature_group>
+<feature_group name="Cálice ou externo ou único ciclo de tépalas">
+<feature name="Tipo">
+<score text="Folioso"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Branca, Verde, Branco-esverdeada, Branco-amarelada, amarela, laranja, rarely Branco-rosada, rosa or Roxa"/>
+</feature>
+</feature_group>
+<feature_group name="Corola ou interno ciclo de tépalas (em caso de dois cíclos)">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Número de pétalas">
+<score text="1"/>
+</feature>
+<feature name="Fusão das pétalas">
+<score text="Livres (ou aparentemente livres)"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Branca, Verde, branco-esverdeada, Branco-amarelada, amarela, laranja, rarely Branco-rosada, rosa"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Anteras formando polinários"/>
+</feature>
+</feature_group>
+<feature_group name="Anteras">
+<feature name="Deiscência">
+<score text="Pólen aglutinado em polínias"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Ínfero"/>
+</feature>
+<feature name="Placentação">
+<score text="Parietal (?), Axial (?), Marginal (?), Laminar (?), Central livre (?), Basal (?) or Apical (?)"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Outro tipo"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Consistência do fruto na maturidade">
+<score text="Seco"/>
+</feature>
+<feature name="Deiscência">
+<score text="Deiscente"/>
+</feature>
+<feature name="Tipo">
+<score text="Cápsula"/>
+</feature>
+</feature_group>
+<feature_group name="Semente (de frutos deiscentes)">
+<feature name="Apêndices">
+<score text="Alas"/>
+</feature>
+</feature_group>
+</entity>
+</description>

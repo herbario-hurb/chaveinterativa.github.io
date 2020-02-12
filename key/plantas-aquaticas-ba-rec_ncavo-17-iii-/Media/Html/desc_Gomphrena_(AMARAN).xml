@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Gomphrena (AMARAN)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Amarantaceae Gomphrena celosioides.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Amarantaceae Gomphrena celosioides_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

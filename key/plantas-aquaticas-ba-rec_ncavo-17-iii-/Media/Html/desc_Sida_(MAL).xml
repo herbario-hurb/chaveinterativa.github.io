@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Sida (MAL)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Sida cf spinosa rhombifolia ulei.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Sida cf spinosa rhombifolia ulei_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Sida sape.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Sida sape_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Sida.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Sida_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

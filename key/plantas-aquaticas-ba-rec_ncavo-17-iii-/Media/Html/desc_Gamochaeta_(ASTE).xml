@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Gamochaeta (ASTE)">
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre"/>
+</feature>
+</feature_group>
+</entity>
+</description>

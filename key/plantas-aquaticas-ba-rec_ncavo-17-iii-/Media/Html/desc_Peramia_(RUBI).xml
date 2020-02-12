@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Peramia (RUBI)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae  Peramia sp hirsuta.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae  Peramia sp hirsuta_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae Perama hab hirsuta hab2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae Perama hab hirsuta hab2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae Perama hab hirsuta.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae Perama hab hirsuta_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae Perama hab hirsuta2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae Perama hab hirsuta2_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

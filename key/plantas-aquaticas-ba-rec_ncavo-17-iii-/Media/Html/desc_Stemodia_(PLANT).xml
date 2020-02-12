@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Stemodia (PLANT)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Plantaginaceae Stemodia foliosa 4042.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Plantaginaceae Stemodia foliosa 4042_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Plantaginaceae Stemodia foliosa.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Plantaginaceae Stemodia foliosa_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Plantaginaceae Stemodia maritima (2).JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Plantaginaceae Stemodia maritima (2)_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Plantaginaceae Stemodia maritima.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Plantaginaceae Stemodia maritima_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

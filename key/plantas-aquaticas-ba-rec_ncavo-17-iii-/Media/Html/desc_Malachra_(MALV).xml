@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Malachra (MALV)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Malachra Sape.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Malachra Sape_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Malachra Sapeacu.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Malachra Sapeacu_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Malachra.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Malachra_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

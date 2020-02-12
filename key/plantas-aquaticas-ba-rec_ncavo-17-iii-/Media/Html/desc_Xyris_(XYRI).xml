@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Xyris (XYRI)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Xyridaceae Xyris macrocephala  DSC_0206 1232.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Xyridaceae Xyris macrocephala  DSC_0206 1232_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Xyridaceae  DSC_0250 1240.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Xyridaceae  DSC_0250 1240_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Xyridaceae  DSC_4148 fz lucas.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Xyridaceae  DSC_4148 fz lucas_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Xyridaceae (XYRIS) DSC_0247 1240.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Xyridaceae (XYRIS) DSC_0247 1240_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Xyridaceae DSC_4145 faz lucas.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Xyridaceae DSC_4145 faz lucas_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Xyridaceae Xyris macrocephala DSC_0201 1232.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Xyridaceae Xyris macrocephala DSC_0201 1232_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre or Emergente (by misinterpretation)"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Sementes em grupos ou solitárias"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="Monocotiledônea"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Erva"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Forma em corte transversal">
+<score text="Cilíndrico"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presente"/>
+</feature>
+<feature name="Presença de espinhos">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Forma">
+<score text="individuo com todas as folhas iguais"/>
+</feature>
+<feature name="Tipo">
+<score text="Simples"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Alterna"/>
+</feature>
+<feature name="Venação foliar">
+<score text="Paralela, actinodroma ou acródroma"/>
+</feature>
+<feature name="Estípula">
+<score text="Ausente"/>
+</feature>
+<feature name="Nectários extraflorais ou glândulas conspícuas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Aberta"/>
+</feature>
+<feature name="Lígula e contra-lígula">
+<score text="Lígula presente, contra-ligula ausente"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presentes or Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Reduzido à bainha">
+<score text="Presente"/>
+</feature>
+<feature name="Forma">
+<score text="Filiforme, linear or Lanceolada ou oval"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa or Ciliada, ciliolada"/>
+</feature>
+<feature name="Superfície">
+<score text="Glabra, Tricomas ramificados or Tricomas glandulares estipidados"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Espiga (incl. espádice) ou espiciforme (by misinterpretation), Composta e terminando em espiguetas (by misinterpretation) or Capítulo (com brácteas involucrais) ou capituliforme"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Diclamidea (cálice e corola ou dois ciclos de tépalas)"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Actinomórfica"/>
+</feature>
+</feature_group>
+<feature_group name="Cálice ou externo ou único ciclo de tépalas">
+<feature name="Tipo">
+<score text="Glumáceo, escarioso ou hialina"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Hialina"/>
+</feature>
+</feature_group>
+<feature_group name="Corola ou interno ciclo de tépalas (em caso de dois cíclos)">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Número de pétalas">
+<score text="1"/>
+</feature>
+<feature name="Prefloração">
+<score text="Valvar ou aberta (?), Imbricada (?) or Convoluta (?)"/>
+</feature>
+<feature name="Fusão das pétalas">
+<score text="Livres (ou aparentemente livres), rarely Fundidas até a metade"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Branco-amarelada, amarela, laranja"/>
+</feature>
+<feature name="Apêndices">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Normal - filete + antera"/>
+</feature>
+<feature name="Número de estames férteis">
+<score text="1 or 4"/>
+</feature>
+</feature_group>
+<feature_group name="Anteras">
+<feature name="Deiscência">
+<score text="Rimosa (longitudinal)"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Súpero"/>
+</feature>
+<feature name="Placentação">
+<score text="Parietal, Marginal, Central livre or Basal"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Bilobado ou bífido or Linear"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Consistência do fruto na maturidade">
+<score text="Seco"/>
+</feature>
+<feature name="Deiscência">
+<score text="Deiscente"/>
+</feature>
+<feature name="Tipo">
+<score text="Cápsula"/>
+</feature>
+</feature_group>
+<feature_group name="Semente (de frutos deiscentes)">
+<feature name="Apêndices">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+</entity>
+</description>

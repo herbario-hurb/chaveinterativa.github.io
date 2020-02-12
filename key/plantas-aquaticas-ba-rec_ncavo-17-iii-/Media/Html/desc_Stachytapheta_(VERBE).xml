@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Stachytapheta (VERBE)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Verbenaceae Starchytapheta cayennensis(2).JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Verbenaceae Starchytapheta cayennensis(2)_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Verbenaceae Starchytapheta cayennensis.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Verbenaceae Starchytapheta cayennensis_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Verbenaceae  Stachytapheta angustifolia 3661.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Verbenaceae  Stachytapheta angustifolia 3661_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Verbenaceae  Stachytapheta angustifolia det flor.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Verbenaceae  Stachytapheta angustifolia det flor_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Verbenaceae Stachytapheta angustifolia 1553.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Verbenaceae Stachytapheta angustifolia 1553_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

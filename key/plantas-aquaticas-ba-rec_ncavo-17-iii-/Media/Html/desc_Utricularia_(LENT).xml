@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Utricularia (LENT)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Lentibulariaceae Utricularia foliosa  flor2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Lentibulariaceae Utricularia foliosa  flor2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Lentibulariaceae Utricularia foliosa  fr2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Lentibulariaceae Utricularia foliosa  fr2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Lentibulariaceae Utricularia foliosa CDA utrículo.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Lentibulariaceae Utricularia foliosa CDA utrículo_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Lentibulariaceae Utricularia foliosa DSC_0087 1182.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Lentibulariaceae Utricularia foliosa DSC_0087 1182_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Lentibulariaceae Utricularia foliosa flor.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Lentibulariaceae Utricularia foliosa flor_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Lentibulariaceae Utricularia foliosa fruto.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Lentibulariaceae Utricularia foliosa fruto_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre, Emergente, Flutuante or Submersa"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Infrutescência ou fruto acompanhado por brácteas, restos do perianto e/ou apêndices, Fruto completo (somente) ou fragmentado or Sementes em grupos ou solitárias"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="&quot;Dicotiledônea&quot;"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Erva"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Forma em corte transversal">
+<score text="Cilíndrico"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Ausente"/>
+</feature>
+<feature name="Presença de espinhos">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Forma">
+<score text="individuo com todas as folhas iguais (by misinterpretation) or indivíduo com folhas com mais de uma forma"/>
+</feature>
+<feature name="Tipo">
+<score text="Ausente ou reduzida à bainha, Simples or Folhas todas modificadas (utrículos, gavinhas ou outros tipos)"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Alterna, Basal ou em roseta or Verticilada ou fasciculada"/>
+</feature>
+<feature name="Venação foliar">
+<score text="Uninérvea ou sem nervura aparente or Paralela, actinodroma ou acródroma"/>
+</feature>
+<feature name="Estípula">
+<score text="Ausente"/>
+</feature>
+<feature name="Nectários extraflorais ou glândulas conspícuas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Reduzido à bainha">
+<score text="Ausente"/>
+</feature>
+<feature name="Forma">
+<score text="Elíptica, Lanceolada ou oval, Espatulada, triangular ou obtriangular or Outras formas"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa"/>
+</feature>
+<feature name="Superfície">
+<score text="Glabra"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Flor solitária or Ramificada aberta (cimosa ou racemosa)"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Diclamidea (cálice e corola ou dois ciclos de tépalas)"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Zigomórfica"/>
+</feature>
+</feature_group>
+<feature_group name="Cálice ou externo ou único ciclo de tépalas">
+<feature name="Tipo">
+<score text="Folioso"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Verde, Branco-esverdeada, Branco-amarelada, amarela, laranja, Branco-rosada, rosa, Vermelha, vinácea or Roxa"/>
+</feature>
+</feature_group>
+<feature_group name="Corola ou interno ciclo de tépalas (em caso de dois cíclos)">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Número de pétalas">
+<score text="1 (by misinterpretation) or 4"/>
+</feature>
+<feature name="Prefloração">
+<score text="Imbricada"/>
+</feature>
+<feature name="Fusão das pétalas">
+<score text="Livres (ou aparentemente livres) (by misinterpretation) or Fundidas até a metade"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Hialina, Branca, Branco-amarelada, amarela, laranja, Lilás, Branco-rosada, rosa or Roxa"/>
+</feature>
+<feature name="Apêndices">
+<score text="Cálcar"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Normal - filete + antera"/>
+</feature>
+<feature name="Número de estames férteis">
+<score text="1"/>
+</feature>
+</feature_group>
+<feature_group name="Anteras">
+<feature name="Deiscência">
+<score text="Rimosa (longitudinal)"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Súpero"/>
+</feature>
+<feature name="Placentação">
+<score text="Central livre or Basal (by misinterpretation)"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Bilobado ou bífido"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Consistência do fruto na maturidade">
+<score text="Seco"/>
+</feature>
+<feature name="Deiscência">
+<score text="Deiscente, rarely Indeiscente"/>
+</feature>
+<feature name="Tipo">
+<score text="Cápsula"/>
+</feature>
+</feature_group>
+<feature_group name="Semente (de frutos deiscentes)">
+<feature name="Apêndices">
+<score text="Alas or Ausentes"/>
+</feature>
+</feature_group>
+</entity>
+</description>

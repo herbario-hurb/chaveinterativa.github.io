@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Hydrocleis (ALISM)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Alismataceae  Hydrocleys martii 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Alismataceae  Hydrocleys martii 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Alismataceae  Hydrocleys martii 4.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Alismataceae  Hydrocleys martii 4_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Alismataceae  Hydrocleys martii det flor.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Alismataceae  Hydrocleys martii det flor_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Alismataceae  Hydrocleys martii hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Alismataceae  Hydrocleys martii hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Alismataceae  Hydrocleys nymphoides fl.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Alismataceae  Hydrocleys nymphoides fl_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Alismataceae  Hydrocleys nymphoides hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Alismataceae  Hydrocleys nymphoides hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Alismataceae  Hydrocleys nymphoides.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Alismataceae  Hydrocleys nymphoides_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

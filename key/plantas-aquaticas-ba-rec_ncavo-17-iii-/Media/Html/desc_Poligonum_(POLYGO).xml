@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Poligonum (POLYGO)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum punctatum 2537.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum punctatum 2537_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum ferrugineum (1).JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum ferrugineum (1)_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum ferrugineum (2).JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum ferrugineum (2)_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum ferrugineum (3).JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum ferrugineum (3)_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum hispidum DSC_0004  1199.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum hispidum DSC_0004  1199_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum hispidum HBK  DSC_0019 1199.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum hispidum HBK  DSC_0019 1199_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum hispidum HBK DSC_0007 1199.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum hispidum HBK DSC_0007 1199_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum hispidum HBK DSC_0009 1199.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum hispidum HBK DSC_0009 1199_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum hispidum HBK DSC_0010 1199.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum hispidum HBK DSC_0010 1199_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum punctatum hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum punctatum hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Polygonaceae Polygonum punctatum.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Polygonaceae Polygonum punctatum_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

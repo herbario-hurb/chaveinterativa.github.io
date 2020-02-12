@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Fimbrystilis (CYP)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae Fimbrystilis cymosa detalhe 1617.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae Fimbrystilis cymosa detalhe 1617_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae Fimbrystilis cymosa hab 1566.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae Fimbrystilis cymosa hab 1566_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae Fimbrystilis cymosa inflo 1617.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae Fimbrystilis cymosa inflo 1617_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae Fimbrystilis cymosa inflore 1617.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae Fimbrystilis cymosa inflore 1617_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

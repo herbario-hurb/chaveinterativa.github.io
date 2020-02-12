@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Diodia (RUBI)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae Diodia macrophylla flor.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae Diodia macrophylla flor_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae Diodia macrophylla fruto.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae Diodia macrophylla fruto_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae Diodia saponariifolia 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae Diodia saponariifolia 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Rubiaceae Diodia saponariifolia.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Rubiaceae Diodia saponariifolia_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Fruto completo (somente) ou fragmentado"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="&quot;Dicotiledônea&quot;"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Erva tipo capim"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Látex">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Gavinhas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Presença de tricomas diversos">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Tipo">
+<score text="Simples"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Oposta"/>
+</feature>
+<feature name="Estípula">
+<score text="Interpeciolar"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Reduzido à bainha">
+<score text="Presente"/>
+</feature>
+<feature name="Forma">
+<score text="Elíptica or Lanceolada ou oval"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa or Ciliada, ciliolada"/>
+</feature>
+<feature name="Superfície">
+<score text="Glabra"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Fascículo ou glomeruliforme"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Diclamidea (cálice e corola ou dois ciclos de tépalas)"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Actinomórfica"/>
+</feature>
+</feature_group>
+<feature_group name="Cálice ou externo ou único ciclo de tépalas">
+<feature name="Coloração (predominante)">
+<score text="Verde, Branco-esverdeada"/>
+</feature>
+</feature_group>
+<feature_group name="Corola ou interno ciclo de tépalas (em caso de dois cíclos)">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Número de pétalas">
+<score text="4"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Branca"/>
+</feature>
+<feature name="Apêndices">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Normal - filete + antera"/>
+</feature>
+<feature name="Número de estames férteis">
+<score text="4"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Ínfero"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Bilobado ou bífido"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Tipo">
+<score text="Cápsula"/>
+</feature>
+</feature_group>
+</entity>
+</description>

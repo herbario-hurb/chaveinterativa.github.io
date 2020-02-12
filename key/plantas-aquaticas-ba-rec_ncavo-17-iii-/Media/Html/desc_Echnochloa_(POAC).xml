@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Echnochloa (POAC)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae  DSC_0014 1204 cf Echinochloa colona.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae  DSC_0014 1204 cf Echinochloa colona_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae  DSC_0016 1204 cf Echinochloa colona.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae  DSC_0016 1204 cf Echinochloa colona_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae  DSC_0026 1204 cf Echinochloa colona.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae  DSC_0026 1204 cf Echinochloa colona_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

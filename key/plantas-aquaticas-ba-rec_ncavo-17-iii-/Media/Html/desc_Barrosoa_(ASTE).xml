@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Barrosoa (ASTE)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Barrosoa betonicaeformis  DSC_0138 1223 cf.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Barrosoa betonicaeformis  DSC_0138 1223 cf_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Barrosoa betonicaeformis 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Barrosoa betonicaeformis 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Barrosoa betonicaeformis DSC_0141 #1223.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Barrosoa betonicaeformis DSC_0141 #1223_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Barrosoa betonicaeformis.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Barrosoa betonicaeformis_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="&quot;Dicotiledônea&quot;"/>
+</feature>
+</feature_group>
+</entity>
+</description>

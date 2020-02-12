@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Urena (MAL)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Urena lobata L. Sape fl.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Urena lobata L. Sape fl_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Urena lobata L.Sape hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Urena lobata L.Sape hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Malvaceae Urena lobata L.Sape.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Malvaceae Urena lobata L.Sape_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

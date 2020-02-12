@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Myriophyllum (HALO)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Haloragaceae Myriophyllum aquaticum 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Haloragaceae Myriophyllum aquaticum 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Haloragaceae Myriophyllum aquaticum 4.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Haloragaceae Myriophyllum aquaticum 4_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Haloragaceae Myriophyllum aquaticum hab 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Haloragaceae Myriophyllum aquaticum hab 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Haloragaceae Myriophyllum aquaticum hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Haloragaceae Myriophyllum aquaticum hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Evolvulus (CONV)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Convolulaceae Evolvulus sp 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Convolulaceae Evolvulus sp 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Convolulaceae Evolvulus sp.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Convolulaceae Evolvulus sp_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

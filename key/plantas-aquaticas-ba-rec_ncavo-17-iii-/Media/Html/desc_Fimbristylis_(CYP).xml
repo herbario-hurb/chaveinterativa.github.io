@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Fimbristylis (CYP)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae DSC_0085 1213 Fimbristylis cf complanata.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae DSC_0085 1213 Fimbristylis cf complanata_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae DSC_0086 1213 Fimbristylis cf complanata.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae DSC_0086 1213 Fimbristylis cf complanata_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae DSC_0255 1243 Fimbristylis complanata.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae DSC_0255 1243 Fimbristylis complanata_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae DSC_0257 1243 Fimbristylis complanata.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae DSC_0257 1243 Fimbristylis complanata_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae Fimbristylis autumnalis 1611 hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae Fimbristylis autumnalis 1611 hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cyperaceae Fimbristylis autumnalis 1611 hab2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cyperaceae Fimbristylis autumnalis 1611 hab2_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre or Emergente"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Infrutescência ou fruto acompanhado por brácteas, restos do perianto e/ou apêndices, Fruto completo (somente) ou fragmentado or Sementes em grupos ou solitárias (by misinterpretation)"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="Monocotiledônea"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Erva"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Forma em corte transversal">
+<score text="Cilíndrico"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Ausente"/>
+</feature>
+<feature name="Presença de espinhos">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Forma">
+<score text="individuo com todas as folhas iguais"/>
+</feature>
+<feature name="Tipo">
+<score text="Simples"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Alterna or Basal ou em roseta"/>
+</feature>
+<feature name="Venação foliar">
+<score text="Paralela, actinodroma ou acródroma"/>
+</feature>
+<feature name="Estípula">
+<score text="Ausente"/>
+</feature>
+<feature name="Nectários extraflorais ou glândulas conspícuas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Aberta or Fechada"/>
+</feature>
+<feature name="Lígula e contra-lígula">
+<score text="Lígula presente, contra-ligula ausente or Lígula e contra-lígula ausentes"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presentes or Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Reduzido à bainha">
+<score text="Presente"/>
+</feature>
+<feature name="Forma">
+<score text="Filiforme, linear or Lanceolada ou oval"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa, Fimbriada or Ciliada, ciliolada"/>
+</feature>
+<feature name="Superfície">
+<score text="Glabra or Tricomas ramificados"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Espiga (incl. espádice) ou espiciforme, Composta e terminando em espiguetas or outros tipos de inflorescência composta ou de outros tipos"/>
+</feature>
+</feature_group>
+<feature_group name="Características das espiguetas (só Cyperaceae e Poaceae)">
+<feature name="Sexualidade das espiguetas">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Número de flores">
+<score text="Uniflora, Biflora, 3 a 6 flores or mais de 6 flores"/>
+</feature>
+</feature_group>
+<feature_group name="Partes">
+<feature name="Glumas bracteóides">
+<score text="Duas glumas bracteóides"/>
+</feature>
+<feature name="Presença de lodículas">
+<score text="Não"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Aclamídea"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Actinomórfica (by misinterpretation)"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Normal - filete + antera"/>
+</feature>
+<feature name="Número de estames férteis">
+<score text="1"/>
+</feature>
+</feature_group>
+<feature_group name="Anteras">
+<feature name="Deiscência">
+<score text="Rimosa (longitudinal)"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Súpero"/>
+</feature>
+<feature name="Placentação">
+<score text="Basal"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Linear"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Consistência do fruto na maturidade">
+<score text="Seco"/>
+</feature>
+<feature name="Deiscência">
+<score text="Indeiscente"/>
+</feature>
+<feature name="Tipo">
+<score text="Aquênio, cariópse ou núcula"/>
+</feature>
+</feature_group>
+</entity>
+</description>

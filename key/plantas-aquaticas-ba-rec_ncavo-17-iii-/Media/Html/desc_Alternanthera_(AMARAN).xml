@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Alternanthera (AMARAN)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Amaranthaceae Alternanthera philoxeroides.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Amaranthaceae Alternanthera philoxeroides_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Amaranthaceae Alternanthera brasiliana det flor 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Amaranthaceae Alternanthera brasiliana det flor 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Amaranthaceae Alternanthera brasiliana var. villosa2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Amaranthaceae Alternanthera brasiliana var. villosa2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Amaranthaceae Alternathera tenella 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Amaranthaceae Alternathera tenella 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Amaranthaceae Alternathera tenella.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Amaranthaceae Alternathera tenella_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

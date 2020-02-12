@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Gonzalagunia (RUBI)">
+<feature_group name="Fatores Ecológicos">
+<feature name="Unidade de dispersão">
+<score text="Fruto completo (somente) ou fragmentado"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="&quot;Dicotiledônea&quot;"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Subarbusto escandente"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Látex">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Gavinhas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Forma em corte transversal">
+<score text="Cilíndrico"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presente"/>
+</feature>
+<feature name="Presença de espinhos">
+<score text="Presente or Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Tipo">
+<score text="Simples"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Oposta"/>
+</feature>
+<feature name="Estípula">
+<score text="Interpeciolar"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Ausente"/>
+</feature>
+<feature name="Lígula e contra-lígula">
+<score text="Lígula e contra-lígula ausentes"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presentes"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Forma">
+<score text="Lanceolada ou oval"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa"/>
+</feature>
+<feature name="Superfície">
+<score text="Tricomas glandulares sésseis"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Ramificada aberta (cimosa ou racemosa)"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Diclamidea (cálice e corola ou dois ciclos de tépalas)"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Actinomórfica"/>
+</feature>
+</feature_group>
+<feature_group name="Cálice ou externo ou único ciclo de tépalas">
+<feature name="Coloração (predominante)">
+<score text="Branca"/>
+</feature>
+</feature_group>
+<feature_group name="Corola ou interno ciclo de tépalas (em caso de dois cíclos)">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Número de pétalas">
+<score text="4"/>
+</feature>
+<feature name="Fusão das pétalas">
+<score text="Fundidas mais do que a metade"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Branca"/>
+</feature>
+<feature name="Apêndices">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Normal - filete + antera"/>
+</feature>
+<feature name="Número de estames férteis">
+<score text="4"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Ínfero"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Bilobado ou bífido"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Consistência do fruto na maturidade">
+<score text="Carnoso"/>
+</feature>
+<feature name="Deiscência">
+<score text="Indeiscente"/>
+</feature>
+<feature name="Tipo">
+<score text="Baga/bacóide ou drupa/drupáceo"/>
+</feature>
+</feature_group>
+</entity>
+</description>

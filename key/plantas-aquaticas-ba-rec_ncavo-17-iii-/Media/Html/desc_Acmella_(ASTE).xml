@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Acmella (ASTE)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Acmella paniculata.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Acmella paniculata_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Asetraceae Acmella uliginosa (Sw.) Cass. hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asetraceae Acmella uliginosa (Sw.) Cass. hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Asteraceae Acmella paniculata 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Asteraceae Acmella paniculata 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Infrutescência ou fruto acompanhado por brácteas, restos do perianto e/ou apêndices"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="&quot;Dicotiledônea&quot;"/>
+</feature>
+</feature_group>
+</entity>
+</description>

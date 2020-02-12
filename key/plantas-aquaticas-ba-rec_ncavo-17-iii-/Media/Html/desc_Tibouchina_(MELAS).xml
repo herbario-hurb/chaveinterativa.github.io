@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Tibouchina (MELAS)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Melastomataceae Tibouchina lhotzkyana (2).JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Melastomataceae Tibouchina lhotzkyana (2)_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Melastomataceae Tibouchina lhotzkyana (3).JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Melastomataceae Tibouchina lhotzkyana (3)_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+<feature_group name="Fatores Ecológicos">
+<feature name="Forma de vida">
+<score text="Palustre or Emergente (by misinterpretation)"/>
+</feature>
+<feature name="Unidade de dispersão">
+<score text="Sementes em grupos ou solitárias"/>
+</feature>
+</feature_group>
+<feature_group name="Classificação taxonômica">
+<feature name="Grupo Informal">
+<score text="&quot;Dicotiledônea&quot;"/>
+</feature>
+</feature_group>
+<feature_group>
+<feature name="Hábito">
+<score text="Erva or Subarbusto"/>
+</feature>
+</feature_group>
+<feature_group name="Caule">
+<feature name="Forma em corte transversal">
+<score text="Cilíndrico"/>
+</feature>
+<feature name="Presença de tricomas diversos">
+<score text="Presente"/>
+</feature>
+<feature name="Presença de espinhos">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Folha">
+<feature name="Forma">
+<score text="individuo com todas as folhas iguais"/>
+</feature>
+<feature name="Tipo">
+<score text="Simples"/>
+</feature>
+<feature name="Filotaxia">
+<score text="Oposta, Alterna (by misinterpretation) or Verticilada ou fasciculada"/>
+</feature>
+<feature name="Venação foliar">
+<score text="Paralela, actinodroma ou acródroma"/>
+</feature>
+<feature name="Estípula">
+<score text="Ausente"/>
+</feature>
+<feature name="Nectários extraflorais ou glândulas conspícuas">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Bainha">
+<feature name="Tipo">
+<score text="Ausente"/>
+</feature>
+</feature_group>
+<feature_group name="Limbo">
+<feature name="Reduzido à bainha">
+<score text="Presente"/>
+</feature>
+<feature name="Forma">
+<score text="Filiforme, linear, Elíptica or Lanceolada ou oval"/>
+</feature>
+<feature name="Margem">
+<score text="Inteira, lisa, Serreada, serrulada, Crenada, crenulada or Ciliada, ciliolada"/>
+</feature>
+<feature name="Superfície">
+<score text="Tricomas ramificados or Tricomas glandulares estipidados"/>
+</feature>
+</feature_group>
+<feature_group name="Inflorescência">
+<feature name="Tipo">
+<score text="Ramificada aberta (cimosa ou racemosa)"/>
+</feature>
+</feature_group>
+<feature_group name="Flor">
+<feature name="Sexualidade">
+<score text="Bissexuadas"/>
+</feature>
+<feature name="Constituição do perianto">
+<score text="Diclamidea (cálice e corola ou dois ciclos de tépalas)"/>
+</feature>
+<feature name="Simetria do perianto">
+<score text="Actinomórfica"/>
+</feature>
+</feature_group>
+<feature_group name="Cálice ou externo ou único ciclo de tépalas">
+<feature name="Tipo">
+<score text="Folioso"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Verde, Branco-esverdeada or Branco-rosada, rosa"/>
+</feature>
+</feature_group>
+<feature_group name="Corola ou interno ciclo de tépalas (em caso de dois cíclos)">
+<feature name="Tipo">
+<score text="Petalóide"/>
+</feature>
+<feature name="Número de pétalas">
+<score text="4"/>
+</feature>
+<feature name="Fusão das pétalas">
+<score text="Livres (ou aparentemente livres)"/>
+</feature>
+<feature name="Coloração (predominante)">
+<score text="Lilás, Branco-rosada, rosa or Roxa"/>
+</feature>
+<feature name="Apêndices">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+<feature_group name="Androceu">
+<feature name="Tipo de estames">
+<score text="Normal - filete + antera"/>
+</feature>
+</feature_group>
+<feature_group name="Anteras">
+<feature name="Deiscência">
+<score text="Poricida"/>
+</feature>
+</feature_group>
+<feature_group name="Gineceu">
+<feature name="Ovário">
+<score text="Súpero"/>
+</feature>
+<feature name="Placentação">
+<score text="Axial"/>
+</feature>
+</feature_group>
+<feature_group name="Estigma">
+<feature name="Tipo">
+<score text="Outro tipo"/>
+</feature>
+</feature_group>
+<feature_group name="Fruto">
+<feature name="Consistência do fruto na maturidade">
+<score text="Seco"/>
+</feature>
+<feature name="Deiscência">
+<score text="Deiscente"/>
+</feature>
+<feature name="Tipo">
+<score text="Cápsula"/>
+</feature>
+</feature_group>
+<feature_group name="Semente (de frutos deiscentes)">
+<feature name="Apêndices">
+<score text="Ausentes"/>
+</feature>
+</feature_group>
+</entity>
+</description>

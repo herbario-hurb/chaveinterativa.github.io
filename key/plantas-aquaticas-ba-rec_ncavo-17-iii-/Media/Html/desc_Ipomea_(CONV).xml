@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Ipomea (CONV)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Convolvulaceae Ipomoea asarifolia DSC_0213 1234.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Convolvulaceae Ipomoea asarifolia DSC_0213 1234_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

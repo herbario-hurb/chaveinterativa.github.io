@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Steinchisma (POAC)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae  DSC_0170 1193 Steichsma hians.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae  DSC_0170 1193 Steichsma hians_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae Steichsma decipiens 1578 hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae Steichsma decipiens 1578 hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae Steichsma decipiens 1578 infl.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae Steichsma decipiens 1578 infl_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae Steichsma decipiens 1578.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae Steichsma decipiens 1578_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae Steichsma decipiens hab.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae Steichsma decipiens hab_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae Steichsma decipiens habito.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae Steichsma decipiens habito_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae Steichsma laxa 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae Steichsma laxa 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae Steichsma laxa.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae Steichsma laxa_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Poaceae  DSC_0179 1193 Steichsma hians.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Poaceae  DSC_0179 1193 Steichsma hians_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>

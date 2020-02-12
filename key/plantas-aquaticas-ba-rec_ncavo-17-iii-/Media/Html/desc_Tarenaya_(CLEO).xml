@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<description>
+<key description="Chave interativa para gêneros de angiospermas aquáticas e palustres do Recôncavo da Bahia" title="Angiospermas Aquáticas e Palustres do Recôncavo da Bahia"/>
+<entity name="Tarenaya (CLEO)">
+<media>
+<media_item label="no caption" type="image">
+<source path="../Images/Cleomaceae Tarenaya spinosa fl 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cleomaceae Tarenaya spinosa fl 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cleomaceae Tarenaya spinosa fl.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cleomaceae Tarenaya spinosa fl_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cleomaceae Tarenaya spinosa fr 2.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cleomaceae Tarenaya spinosa fr 2_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cleomaceae Tarenaya spinosa fr.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cleomaceae Tarenaya spinosa fr_TN.jpg" type="image/jpeg"/>
+</media_item>
+<media_item label="no caption" type="image">
+<source path="../Images/Cleomaceae Tarenaya spinosa.JPG" type="image/jpeg"/>
+<icon path="../Thumbs/Cleomaceae Tarenaya spinosa_TN.jpg" type="image/jpeg"/>
+</media_item>
+</media>
+</entity>
+</description>
